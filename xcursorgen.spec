@@ -6,7 +6,7 @@
 #
 Name     : xcursorgen
 Version  : 1.0.7
-Release  : 11
+Release  : 12
 URL      : http://xorg.freedesktop.org/releases/individual/app/xcursorgen-1.0.7.tar.gz
 Source0  : http://xorg.freedesktop.org/releases/individual/app/xcursorgen-1.0.7.tar.gz
 Source99 : http://xorg.freedesktop.org/releases/individual/app/xcursorgen-1.0.7.tar.gz.sig
